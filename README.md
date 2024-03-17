@@ -65,6 +65,8 @@ To use this application, ensure you have a compatible web browser. Simply open t
 
 ## Credits
 
-This project utilizes the p5.js library for audio processing and user interface components. Developed by Haseeb-98.
+This project utilizes the p5.js library for audio processing and user interface components. 
 
-For more information, visit (github.com/HASEEB-98/DJ-Application).
+## About the Author
+
+This project was developed by Abdul Haseeb. For any inquiries or feedback, please feel free to contact me via ahaseeb11.98@gmail.com
